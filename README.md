@@ -33,4 +33,4 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 ## 🙌 Author
 
 Himanshu Singh
-https://github.com/harshsinghpujari [github profile link]
+https://github.com/harshsinghpujari 
